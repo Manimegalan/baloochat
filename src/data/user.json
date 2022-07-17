@@ -1,0 +1,58 @@
+[
+	{
+		"name":"Saraha",
+		"message":"Hey I've completed the design",
+		"notification_count":2,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/0/200"
+ 	},
+	{
+		"name":"Michael",
+		"message":"Get those to me immediately",
+		"notification_count":0,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/1/200"
+	},
+	{
+		"name":"James",
+		"message":"Sent it over sometime back",
+		"notification_count":2,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/2/200"
+	},
+	{
+		"name":"Jessica",
+		"message":"Hey i wanted to discuss",
+		"notification_count":3,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/3/200"
+	},
+	{
+		"name":"John",
+		"message":"Send it over",
+		"notification_count":0,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/4/200"
+	},
+	{
+		"name":"Smith",
+		"message":"When are you available",
+		"notification_count":0,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/5/200"
+	},
+	{
+		"name":"Hofstader",
+		"message":"Hey I've completed the design",
+		"notification_count":3,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/6/200"
+	},
+	{
+		"name":"Senior Manager",
+		"message":"When are you available",
+		"notification_count":3,
+		"time":"11.45pm",
+		"profile_img":"https://picsum.photos/7/200"
+	}
+]
